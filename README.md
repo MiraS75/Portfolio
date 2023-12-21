@@ -31,7 +31,9 @@
 2. Создание Postman-коллекции
 3. Отчёт о тестировании
 
-Ссылка на проект: https://mirasuleymanyanqa.atlassian.net/wiki/spaces/~62a04e94d442e6006841b923/pages/1343489/1+2
+Ссылка на проект: https://full-camp-a69.notion.site/1-7863dbfd2aec4075b2eafc60b8967e21
+
+https://mirasuleymanyanqa.atlassian.net/wiki/spaces/~62a04e94d442e6006841b923/pages/1343489/1+2
 
 Выводы (итоги):
 
